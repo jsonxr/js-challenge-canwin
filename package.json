@@ -1,0 +1,16 @@
+{
+  "name": "@jsonxr/js-challeng-canwin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ."
+  },
+  "keywords": [],
+  "author": "Jason Rowland <jsonxr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
